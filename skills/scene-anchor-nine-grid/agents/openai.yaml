@@ -1,0 +1,7 @@
+interface:
+  display_name: "场景锚定九宫格分镜"
+  short_description: "生成场景锚定九宫格与关键帧投喂表"
+  default_prompt: "使用 $scene-anchor-nine-grid，把我的场景段落整理成16:9横屏3×3 Next Scene场景锚定分镜提示词。"
+
+policy:
+  allow_implicit_invocation: true

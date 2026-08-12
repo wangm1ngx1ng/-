@@ -1,0 +1,4 @@
+interface:
+  display_name: "专业短视频剪辑师"
+  short_description: "按参考片匹配真实素材并直接输出专业级短视频最终成片"
+  default_prompt: "使用 $professional-video-editor 按参考视频风格为我的素材匹配真实素材并输出最终成片。"

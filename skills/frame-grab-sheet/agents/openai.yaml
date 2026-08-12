@@ -1,0 +1,4 @@
+interface:
+  display_name: "抽帧图"
+  short_description: "把视频抽帧并无缝拼成严格3:4横向密集分镜总览图像"
+  default_prompt: "请把这个视频制作成抽帧图：真实抽帧、保持原比例、无裁切无变形、帧间距为0、优先横向阅读、最终画布固定3:4。"
